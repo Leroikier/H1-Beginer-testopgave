@@ -1,0 +1,43 @@
+﻿/* CSS Document */
+/* med * nulstiller du alle alle elementernes standard indstillinger*/
+* {
+    mar gin:0px;
+    padding: 0px;
+}
+
+body {
+    background-color: cornflowerblue;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+#banner {
+    width: 960px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+h1 {
+    font-family: Verdana;
+    font-size:3.0em;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: darkred;
+}
+
+#menu {
+    height: 810px;
+    width: 200px;
+    margin-left: 0;
+    margin-right: auto;
+    padding: 2px;
+    background-color: darkcyan;
+}
+
+p {
+    margin-left: 3px;
+    margin-top: 1px;
+    margin-bottom 1px;
+    padding: 1px;
+}
